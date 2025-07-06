@@ -1,0 +1,5 @@
+def txt(txt):
+  return txt
+
+  def nums (a+b):
+  return a+b
